@@ -1,4 +1,10 @@
-[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=720&height=70&lines=Backend+%26+Full-Stack+Developer;Node.js+%7C+Python+%7C+PostgreSQL;Shipping+full+projects%2C+not+just+demos)](https://github.com/natty-fe)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6366F1&height=200&section=header&text=Natan%20Feyisa&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20%26%20Full-Stack%20Developer&descAlignY=55&descSize=20)
+
+[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=600&height=50&lines=Node.js+%7C+Python+%7C+PostgreSQL;Shipping+full+projects%2C+not+just+demos;Currently+building+Bazar+%26+an+AI+Study+Assistant)](https://github.com/natty-fe)
+
+<p align="center">
+  <img src="./profile.jpg" width="160" style="border-radius: 50%;" alt="Natan Feyisa" />
+</p>
 
 [![views](https://komarev.com/ghpvc/?username=natty-fe&label=Profile%20Views&color=2d3eee&style=for-the-badge)](https://github.com/natty-fe)
 [![followers](https://img.shields.io/github/followers/natty-fe?label=Followers&style=for-the-badge&color=6366f1&logo=github&logoColor=white)](https://github.com/natty-fe?tab=followers)
@@ -42,17 +48,23 @@
 
 ![streak](https://streak-stats.demolab.com?user=natty-fe&theme=tokyonight&hide_border=true)
 
+## ✦ Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=natty-fe&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+## ✦ Activity Graph
+
+![activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=natty-fe&theme=tokyo-night&hide_border=true)
+
 ## ✦ Featured Projects
 
 | | |
 |---|---|
 | **[GULIT — Bilingual Market Price Management System](https://github.com/natty-fe/Gulit.github.io)**<br>Digitizes a paper-based traditional market: regulated pricing, approved-shop listings, order tracking, delivery workflows. Node.js/Express REST API in MVC style, 5 user roles with role-based auth, JWT + bcrypt, transactional email via Resend, PostgreSQL/Supabase.<br>`JavaScript` | **[Student Academic Advisor System](https://github.com/natty-fe/Student_service.github.io)**<br>Tracks completed/planned courses, estimates GPA, checks prerequisite readiness. Course recommendation engine, graduation-eligibility prediction, and a local chat assistant for GPA/requirement questions.<br>`JavaScript` |
-| **[AI Study Assistant](https://github.com/natty-fe/AI-study-assistance)**<br>RAG-based study tool: FastAPI backend, JWT auth, Postgres, MinIO for uploaded files. Celery + Redis pipeline for chunking and embeddings, hybrid retrieval (Pinecone + BM25). GPT-4o for chat, summaries, quizzes, flashcards.<br>`Python` | **Bazar — E-commerce Marketplace** *(in progress)*<br>Full-stack marketplace: product browsing, cart, order flow.<br>`JavaScript` |
+| **[AI Study Assistant](https://github.com/natty-fe/AI-study-assistance)**<br>RAG-based study tool: FastAPI backend, JWT auth, Postgres, MinIO for uploaded files. Celery + Redis pipeline for chunking and embeddings, hybrid retrieval (Pinecone +s BM25). GPT-4o for chat, summaries, quizzes, flashcards.<br>`Python` | **Bazar — E-commerce Marketplace** *(in progress)*<br>Full-stack marketplace: product browsing, cart, order flow.<br>`JavaScript` |
 
 ## ✦ Contribution Snake
 
 ![snake](https://raw.githubusercontent.com/natty-fe/natty-fe/output/github-contribution-grid-snake.svg)
 
----
-
-✦ keep going
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6366F1&height=100&section=footer)
