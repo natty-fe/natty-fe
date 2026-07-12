@@ -56,12 +56,22 @@
 
 ![activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=natty-fe&theme=tokyo-night&hide_border=true)
 
+## ✦ Live Stat Card
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dark_mode.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./light_mode.svg">
+    <img src="./dark_mode.svg" alt="Natan's live GitHub stat card" width="720">
+  </picture>
+</p>
+
 ## ✦ Featured Projects
 
 | | |
 |---|---|
 | **[GULIT — Bilingual Market Price Management System](https://github.com/natty-fe/Gulit.github.io)**<br>Digitizes a paper-based traditional market: regulated pricing, approved-shop listings, order tracking, delivery workflows. Node.js/Express REST API in MVC style, 5 user roles with role-based auth, JWT + bcrypt, transactional email via Resend, PostgreSQL/Supabase.<br>`JavaScript` | **[Student Academic Advisor System](https://github.com/natty-fe/Student_service.github.io)**<br>Tracks completed/planned courses, estimates GPA, checks prerequisite readiness. Course recommendation engine, graduation-eligibility prediction, and a local chat assistant for GPA/requirement questions.<br>`JavaScript` |
-| **[AI Study Assistant](https://github.com/natty-fe/AI-study-assistance)**<br>RAG-based study tool: FastAPI backend, JWT auth, Postgres, MinIO for uploaded files. Celery + Redis pipeline for chunking and embeddings, hybrid retrieval (Pinecone +s BM25). GPT-4o for chat, summaries, quizzes, flashcards.<br>`Python` | **Bazar — E-commerce Marketplace** *(in progress)*<br>Full-stack marketplace: product browsing, cart, order flow.<br>`JavaScript` |
+| **[AI Study Assistant](https://github.com/natty-fe/AI-study-assistance)**<br>RAG-based study tool: FastAPI backend, JWT auth, Postgres, MinIO for uploaded files. Celery + Redis pipeline for chunking and embeddings, hybrid retrieval (Pinecone + BM25). GPT-4o for chat, summaries, quizzes, flashcards.<br>`Python` | **Bazar — E-commerce Marketplace** *(in progress)*<br>Full-stack marketplace: product browsing, cart, order flow.<br>`JavaScript` |
 
 ## ✦ Contribution Snake
 
