@@ -39,7 +39,9 @@ def render_card(ascii_lines, stat_lines, theme="dark", title="andrew@grant"):
 
     rows = max(len(ascii_lines), len(stat_lines))
     height = int((rows + 3) * LINE_H + 40)
-    width = int(right_col_x + 560)
+    max_stat_len = max((len(l) for l in stat_lines if l), default=40)
+    stat_px_w = max_stat_len * CHAR_W
+    width = int(right_col_x + stat_px_w + 40)
 
     svg = []
     svg.append(f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}">')

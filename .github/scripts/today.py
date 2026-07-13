@@ -111,6 +111,16 @@ def fetch_stats():
 
 def build_stat_lines(s):
     return [
+        "Nathan Feyisa" + " " * 8 + "-" * 20,
+        "OS: .................. Windows 11",
+        "IDE: ................. VS Code / IntelliJ IDEA",
+        "Languages: ........... Java, JavaScript, Python, C++, SQL",
+        "Frontend: ............ HTML, CSS",
+        "Backend: ............. Node.js, Express.js",
+        "Database: ............ Supabase, MySQL",
+        "Learning: ............ AI Agents, Spring Boot",
+        "Hobbies: ............. Game Development, Bass Guitar, UI Design",
+        "",
         f"{s['login']}@github" + " " * 6 + "-" * 20,
         f"Account Age: ......... {s['account_years']} years, {s['account_months']} months",
         f"Public Repos: ........ {s['public_repos']}",
