@@ -31,10 +31,11 @@ def esc(s):
 
 def render_card(ascii_lines, stat_lines, theme="dark", title="andrew@grant"):
     t = THEMES[theme]
-    ascii_w = max(len(l) for l in ascii_lines)
+    has_ascii = bool(ascii_lines)
+    ascii_w = max((len(l) for l in ascii_lines), default=0)
     left_px_w = ascii_w * CHAR_W
     left_col_x = 24
-    right_col_x = left_col_x + left_px_w + 40
+    right_col_x = (left_col_x + left_px_w + 40) if has_ascii else left_col_x
 
     rows = max(len(ascii_lines), len(stat_lines))
     height = int((rows + 3) * LINE_H + 40)

@@ -137,10 +137,9 @@ def main():
 
     stats = fetch_stats()
     stat_lines = build_stat_lines(stats)
-    ascii_lines = image_to_ascii(photo_path, cols=64)
 
     for theme in ("dark", "light"):
-        svg = render_card(ascii_lines, stat_lines, theme=theme, title=f"{stats['login']}@github")
+        svg = render_card([], stat_lines, theme=theme, title=f"{stats['login']}@github")
         out_path = os.path.join(repo_root, f"{theme}_mode.svg")
         with open(out_path, "w") as f:
             f.write(svg)

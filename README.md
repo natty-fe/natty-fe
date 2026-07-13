@@ -62,13 +62,20 @@
 
 ## ✦ Live Stat Card
 
-<p align="center">
+<table>
+<tr>
+<td>
+  <img src="./ascii-art.png" width="360" alt="Natan's ASCII portrait" />
+</td>
+<td>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./dark_mode.svg">
     <source media="(prefers-color-scheme: light)" srcset="./light_mode.svg">
-    <img src="./dark_mode.svg" alt="Natan's live GitHub stat card" width="720">
+    <img src="./dark_mode.svg" alt="Natan's live GitHub stats" width="420">
   </picture>
-</p>
+</td>
+</tr>
+</table>
 
 ## ✦ Featured Projects
 
