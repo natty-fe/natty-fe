@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="555" height="513" viewBox="0 0 555 513">
+<rect width="100%" height="100%" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+<text x="24" y="34" font-family="SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#0969da" font-weight="bold">natty-fe@github</text>
+<line x1="24" y1="46" x2="531" y2="46" stroke="#d0d7de" stroke-width="1"/>
+<g font-family="SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" xml:space="preserve">
+<text x="24" y="63.5" fill="#24292f">Nathan Feyisa        --------------------</text>
+<text x="24" y="81.1"><tspan fill="#953800">OS:</tspan><tspan fill="#0969da"> .................. Windows 11</tspan></text>
+<text x="24" y="98.7"><tspan fill="#953800">IDE:</tspan><tspan fill="#0969da"> ................. VS Code / IntelliJ IDEA</tspan></text>
+<text x="24" y="116.2"><tspan fill="#953800">Languages:</tspan><tspan fill="#0969da"> ........... Java, JavaScript, Python, C++, SQL</tspan></text>
+<text x="24" y="133.8"><tspan fill="#953800">Frontend:</tspan><tspan fill="#0969da"> ............ HTML, CSS</tspan></text>
+<text x="24" y="151.3"><tspan fill="#953800">Backend:</tspan><tspan fill="#0969da"> ............. Node.js, Express.js</tspan></text>
+<text x="24" y="168.9"><tspan fill="#953800">Database:</tspan><tspan fill="#0969da"> ............ Supabase, MySQL</tspan></text>
+<text x="24" y="186.4"><tspan fill="#953800">Learning:</tspan><tspan fill="#0969da"> ............ AI Agents, Spring Boot</tspan></text>
+<text x="24" y="203.9"><tspan fill="#953800">Hobbies:</tspan><tspan fill="#0969da"> ............. Game Development, Bass Guitar, UI Design</tspan></text>
+<text x="24" y="221.5" fill="#24292f"></text>
+<text x="24" y="239.1" fill="#24292f">natty-fe@github      --------------------</text>
+<text x="24" y="256.6"><tspan fill="#953800">Account Age:</tspan><tspan fill="#0969da"> ......... 1 years, 3 months</tspan></text>
+<text x="24" y="274.2"><tspan fill="#953800">Public Repos:</tspan><tspan fill="#0969da"> ........ 9</tspan></text>
+<text x="24" y="291.7"><tspan fill="#953800">Followers:</tspan><tspan fill="#0969da"> ........... 2</tspan></text>
+<text x="24" y="309.2"><tspan fill="#953800">Following:</tspan><tspan fill="#0969da"> ........... 2</tspan></text>
+<text x="24" y="326.8" fill="#24292f"></text>
+<text x="24" y="344.4" fill="#d0d7de">--- Contributions ---</text>
+<text x="24" y="361.9"><tspan fill="#953800">Total Commits:</tspan><tspan fill="#0969da"> ....... 426</tspan></text>
+<text x="24" y="379.5"><tspan fill="#953800">Pull Requests:</tspan><tspan fill="#0969da"> ....... 2</tspan></text>
+<text x="24" y="397.0"><tspan fill="#953800">Issues:</tspan><tspan fill="#0969da"> .............. 0</tspan></text>
+<text x="24" y="414.6"><tspan fill="#953800">Total Stars Earned:</tspan><tspan fill="#0969da"> .. 0</tspan></text>
+<text x="24" y="432.1" fill="#24292f"></text>
+<text x="24" y="449.7" fill="#d0d7de">--- Top Languages ---</text>
+<text x="24" y="467.2" fill="#24292f">CSS, JavaScript, Python, HTML, Java</text>
+</g>
+</svg>
