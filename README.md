@@ -1,9 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6366F1&height=200&section=header&text=Natan%20Feyisa&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20%26%20Full-Stack%20Developer&descAlignY=55&descSize=20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6366F1&height=200&section=header&text=Natan%20Feyisa&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20and%20Full-Stack%20Developer&descAlignY=55&descSize=20)
 
 [![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=600&height=50&lines=Node.js+%7C+Python+%7C+PostgreSQL;Shipping+full+projects%2C+not+just+demos;Currently+building+Bazar+%26+an+AI+Study+Assistant)](https://github.com/natty-fe)
 
 <p align="center">
-  <img src="./profile.jpg" width="160" style="border-radius: 50%;" alt="Natan Feyisa" />
+  <img src="./profile.png" width="160" alt="Natan Feyisa" />
 </p>
 
 [![views](https://komarev.com/ghpvc/?username=natty-fe&label=Profile%20Views&color=2d3eee&style=for-the-badge)](https://github.com/natty-fe)

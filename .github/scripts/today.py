@@ -128,7 +128,7 @@ def build_stat_lines(s):
     ]
 
 def main():
-    repo_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    repo_root = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
     photo_path = os.path.join(repo_root, "profile.jpg")
 
     if not TOKEN:
