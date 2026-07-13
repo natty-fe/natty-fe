@@ -1,6 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6366F1&height=200&section=header&text=Natan%20Feyisa&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20and%20Full-Stack%20Developer&descAlignY=55&descSize=20)
 
-[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=600&height=50&lines=Node.js+%7C+Python+%7C+PostgreSQL;Shipping+full+projects%2C+not+just+demos;Currently+building+Bazar+%26+an+AI+Study+Assistant)](https://github.com/natty-fe)
+<p align="center">
+  <a href="https://github.com/natty-fe">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=750&height=45&lines=Node.js+%7C+Python+%7C+PostgreSQL;Shipping+full+projects%2C+not+just+demos;Currently+building+Bazar+%26+AI+Study+Assistant" alt="typing" />
+  </a>
+</p>
 
 <p align="center">
   <img src="./profile.png" width="160" alt="Natan Feyisa" />

@@ -137,7 +137,7 @@ def main():
 
     stats = fetch_stats()
     stat_lines = build_stat_lines(stats)
-    ascii_lines = image_to_ascii(photo_path, cols=64, crop_box=(140, 200, 920, 1300))
+    ascii_lines = image_to_ascii(photo_path, cols=64)
 
     for theme in ("dark", "light"):
         svg = render_card(ascii_lines, stat_lines, theme=theme, title=f"{stats['login']}@github")
